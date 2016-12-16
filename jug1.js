@@ -1,2 +1,3 @@
 var msg = 'Hello Jug';
-console.log(msg);
+var msg2 = 'Hello Jug2';
+console.log(msg2);
